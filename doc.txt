@@ -1,0 +1,10 @@
+
+  <h1> Este texto viene del servidor.¡ </h1>
+
+En esto descubrieron treinta o cuarenta molinos de viento que hay en aquel campo, y así como Don Quijote los vió, dijo a su escudero:
+
+-La ventura va guiando nuestras cosas mejor de lo que acertáramos a desear; porque ves allí, amigo Sancho Panza, donde se descubren treinta o poco más desaforados gigantes con quien pienso hacer batalla, y quitarles a todos las vidas, con cuyos despojos comenzaremos a enriquecer: que esta es buena guerra, y es gran servicio de Dios quitar tan mala simiente de sobre la faz de la tierra.
+
+-¿Qué gigantes?-dijo Sancho Panza.
+
+-Aquellos que allí ves-respondió su amo-, de los brazos largos, que los suelen tener algunos de casi dos leguas.
